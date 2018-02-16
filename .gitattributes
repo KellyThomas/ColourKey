@@ -1,0 +1,30 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+*               text=auto
+
+# git housekeeping
+.gitattributes  text
+.gitignore      text
+
+# godot 
+*.cfg           text eol=lf
+*.csproj        text eol=crlf
+*.godot         text eol=lf
+*.import        text eol=lf
+*.sln           text eol=lf
+*.tscn          text eol=lf
+*.tres          text eol=lf
+
+# source code
+*.gd            text
+*.cs            text
+
+# documentation
+*.md            text
+*.txt           text
+
+# resources
+*.png           binary
+*.wav           binary

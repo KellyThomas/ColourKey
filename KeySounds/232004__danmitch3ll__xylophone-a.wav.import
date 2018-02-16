@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/232004__danmitch3ll__xylophone-a.wav-21288255da067ae94cd1471f6200cace.sample"
+
+[deps]
+
+source_file="res://KeySounds/232004__danmitch3ll__xylophone-a.wav"
+source_md5="1d159489ead97e5bcf816b8dbbae0adb"
+
+dest_files=[ "res://.import/232004__danmitch3ll__xylophone-a.wav-21288255da067ae94cd1471f6200cace.sample" ]
+dest_md5="e7d0d03957c2683963655b7b2b4e5cc4"
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

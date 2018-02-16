@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/232009__danmitch3ll__xylophone-sweep.wav-4cf5b90ca69213cca18112fa106af76c.sample"
+
+[deps]
+
+source_file="res://KeySounds/232009__danmitch3ll__xylophone-sweep.wav"
+source_md5="094597f66d0b44881413c378c307a635"
+
+dest_files=[ "res://.import/232009__danmitch3ll__xylophone-sweep.wav-4cf5b90ca69213cca18112fa106af76c.sample" ]
+dest_md5="00cf0173243782353a699b9c29828069"
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
